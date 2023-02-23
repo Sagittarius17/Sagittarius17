@@ -1,4 +1,6 @@
 
+[![](https://visitcount.itsvg.in/api?id=sagittarius17&icon=5&color=6)](https://visitcount.itsvg.in)
+
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 
@@ -39,6 +41,5 @@
 <img src="https://random-memer.herokuapp.com/" width="512px"/> -->
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sagittarius17&icon=5&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
